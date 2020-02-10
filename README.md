@@ -1,5 +1,7 @@
 # COLOR GUESSING GAME
 
+[PLAY](https://kb10241024.github.io/COLOR_GUESSING_GAME/)
+
 ### A simple game designed just for the fun in which you have to choose the right color from given RGB value.</br>
 ### There are two levels in the game!
 #### Easy
